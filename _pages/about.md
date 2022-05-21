@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Southern California</a>. 3620 McClintock Ave. fortweng@usc.edu.
+subtitle: <a href='https://www.usc.edu'>University of Southern California</a>. 3620 McClintock Ave. fortweng@usc.edu.
 
 profile:
   align: right
